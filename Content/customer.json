@@ -1,0 +1,20 @@
+[
+  {
+    "ItemID": 1,
+    "Title": "The Great Gatsby",
+    "Description": "A classic",
+    "Date": "01/01/2020"
+  },
+  {
+    "ItemID": 2,
+    "Title": "Holes",
+    "Description": "A boy who grew up in poverty finds friendship and riches",
+    "Date": "01/03/2020"
+  },
+  {
+    "ItemID": 3,
+    "Title": "Atomic Habits",
+    "Description": "Your habits define you.",
+    "Date": "01/10/2020"
+  }
+]
